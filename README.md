@@ -1,12 +1,13 @@
 # 🎮 GameLauncher
 *A customizable game launcher with mod and file management support*
 
-![GameLauncher Banner](path/to/banner.png) <!-- Replace with actual image link later -->
+![GameLauncher Banner] <!-- Replace with actual image link later -->
 
 ---
 
 ## 🚀 Overview
 **GameLauncher** is a custom game launcher designed to provide features that many existing launchers lack. It allows users to:  
+
 ✔️ Add games from various platforms and locations on their PC  
 ✔️ Manage mods and trainers with a built-in mod launcher option  
 ✔️ Open game directories for quick file access (useful for modding or tweaks)  
@@ -15,18 +16,20 @@
 Currently, I have already built a **functional version** using Python, but the UI is very basic. My goal is to **rebuild this with a better interface** and possibly use a different programming language to enhance its design and functionality.  
 
 ---
-
 ## 🎯 Current Features
-- ✅ **Game Management:** Add any game from your PC by specifying:  
-  - The game's executable file (for direct launch)  
-  - A mod launcher (if available)  
-  - The game directory (for easy file access)  
-- ✅ **Multiple Launch Options:** Click on a game to:  
+-  **Game Management:** Add any game from your PC by specifying:  
+  - The game's executable file (for directly launching the game)  
+  - A mod launcher (if available)
+  - The game directory (for easy file access)
+  - Add a tag/category (for easy sorting)
+-  **Multiple Launch Options:** Click on a game to:  
   - Run the base game  
   - Open the mod launcher  
   - Open the game directory  
-
+  - Edit name, directories, and tags
 📸 *(Screenshots of the current version will be added here)*  
+
+
 
 ---
 
@@ -34,9 +37,9 @@ Currently, I have already built a **functional version** using Python, but the U
 🔹 **Improved UI:** Create a cleaner, modern-looking UI similar to popular launchers  
 🔹 **Better Tech Stack:** Possibly switch from Python to a different language for performance and design improvements  
 🔹 **More Features:**  
-   - Custom categories for better game organization  
-   - Cloud sync for game metadata  
-   - Customizable themes  
+   - Better sorting/filtering features    
+   - Customizable themes
+   - Custom Artwork for games
 
 ---
 
@@ -52,13 +55,6 @@ Currently, I have already built a **functional version** using Python, but the U
 ## 📸 Screenshots  
 <!-- Add screenshots here when available -->  
 
-![Current Version](path/to/screenshot1.png)  
-![Planned UI](path/to/mockup.png)  
+Will add when further development has been made on newer version~
 
 ---
-
-## 🎮 How to Use (Current Version)
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/yourusername/GameLauncher.git
-   cd GameLauncher
