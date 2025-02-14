@@ -16,17 +16,19 @@
 Currently, I have already built a **functional version** using Python, but the UI is very basic. My goal is to **rebuild this with a better interface** and possibly use a different programming language to enhance its design and functionality.  
 
 ---
+
 ## 🎯 Current Features
--  **Game Management:** Add any game from your PC by specifying:  
-  - The game's executable file (for directly launching the game)  
-  - A mod launcher (if available)
+- ✅ **Game Management:** Add any game from your PC by specifying:  
+  - The game's executable file (for directly launching the game) 
+  - A mod launcher (if available)  
   - The game directory (for easy file access)
   - Add a tag/category (for easy sorting)
--  **Multiple Launch Options:** Click on a game to:  
+- ✅ **Multiple Launch Options:** Click on a game to:  
   - Run the base game  
   - Open the mod launcher  
-  - Open the game directory  
-  - Edit name, directories, and tags
+  - Open the game directory
+  - Edit name, directories, and tags 
+
 📸 *(Screenshots of the current version will be added here)*  
 
 
