@@ -1,7 +1,7 @@
 # 🎮 GameLauncher
 *A customizable game launcher with mod and file management support*
 
-![GameLauncher Banner] <!-- Replace with actual image link later -->
+<!--[GameLauncher Banner] <!-- Replace with actual image link later -->
 
 ---
 
