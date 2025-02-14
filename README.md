@@ -31,9 +31,9 @@ Currently, I have already built a **functional version** using Python, but the U
 
 📸 *(Screenshots of the current version will be added here)*  
 
-(Screenshot1.png)
+<img src="Screenshot1.png" width="500">
 
-(Screenshot2.png)
+<img src="Screenshot2.png" width="300">
 
 ---
 
