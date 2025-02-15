@@ -18,6 +18,8 @@ Currently, I have already built a **functional version** using Python, but the U
 ---
 
 ## 🎯 Current Features
+### Legacy Python Version
+
 - ✅ **Game Management:** Add any game from your PC by specifying:  
   - The game's executable file (for directly launching the game) 
   - A mod launcher (if available)  
@@ -29,11 +31,28 @@ Currently, I have already built a **functional version** using Python, but the U
   - Open the game directory
   - Edit name, directories, and tags 
 
-📸 *(Screenshots of the current version will be added here)*  
+📸 
 
 <img src="Screenshot1.png" width="500">
 
 <img src="Screenshot2.png" width="300">
+
+### New Python Version
+
+- ✅ **Game Management:** Add any game from your PC by specifying:  
+  - The game's exe (and launcher if it uses one)
+  - Cover art (choose the game's exe icon or custom cover art)
+  - A mod launcher (if available)  
+  - The game directory (for easy file access)
+  - Specify play button action (choose to launch with mods, trainer base game etc.)
+- ✅ **Multiple Launch Options:** Multiple buttons to launch:  
+  - The base game/launcher  
+  - Open the mod launcher
+  - Open the trainer  
+  - Open the game directory
+  - Edit name, directories, and default launch options
+ 
+    <img src="Screenshot3.png" width="500">
 
 ---
 
